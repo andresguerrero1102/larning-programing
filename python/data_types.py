@@ -1,4 +1,4 @@
-# This is my first Python Script
+ # This is my first Python Script
 '''
    Developer: Andres Guerrero
    Dscription: This script let us understand how to is data types.
